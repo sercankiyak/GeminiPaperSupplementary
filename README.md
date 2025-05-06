@@ -1,2 +1,11 @@
 # Gemini Paper Supplementary
-This is the repository for the supplementary material for the paper "De-biased, diverse, divisive.  Understanding the Google Gemini internet storm in the broader context of diversity, generative AI, and interdisciplinary uses of data. "
+This repository contains the supplementary material for the paper titled:
+"De-biased, Diverse, Divisive: Understanding the Google Gemini Internet Storm in the Broader Context of Diversity, Generative AI, and Interdisciplinary Uses of Data."
+
+The repository includes:
+
+1) The supplementary material PDF
+
+2) Tweet IDs (to be uploaded)
+
+3) Script files (to be uploaded)
